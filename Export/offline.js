@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1592125218,
+	"version": 1593543831,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -29,7 +29,12 @@
 		"images/exit-sheet0.png",
 		"images/yesbtn-sheet0.png",
 		"images/win-sheet0.png",
-		"media/bensound-jazzyfrenchy.ogg",
+		"media/oops.ogg",
+		"media/died.ogg",
+		"media/click.ogg",
+		"media/sukses.ogg",
+		"media/win.ogg",
+		"media/bg.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1592125218
+#1593543831
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -28,7 +28,12 @@ images/exitbtn-sheet0.png
 images/exit-sheet0.png
 images/yesbtn-sheet0.png
 images/win-sheet0.png
-media/bensound-jazzyfrenchy.ogg
+media/oops.ogg
+media/died.ogg
+media/click.ogg
+media/sukses.ogg
+media/win.ogg
+media/bg.ogg
 icon-16.png
 icon-32.png
 icon-114.png
